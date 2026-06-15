@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Rushi Patel and I am a Software Developer from Gujarat, India</p>
+<p align="left">My name is Rushi Patel and I am a Software Developer </p>
 
 ###
 
