@@ -138,7 +138,7 @@ Designing practical software solutions, integrating APIs, solving complex proble
   />
 </a>
 
-<br/><br/>
+<br/>
 
 **Let's connect, collaborate, and build something amazing!**
 
