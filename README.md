@@ -1,113 +1,118 @@
 
 <div align="center">
 
-# 👋 Hey, I'm Rushi Patel!
+<h1>👋 Hey, I'm Rushi Patel!</h1>
 
-### 💻 Full Stack Developer | Software Engineer | Freelancer
+<h3>💻 Full Stack Developer | Software Engineer | Freelancer</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Passionate+Software+Developer;Full+Stack+Web+Development;Java+%7C+Spring+Boot+%7C+MySQL;Building+Solutions+with+Code" alt="Typing SVG" />
-
-<br/>
-
-<img height="220" src="https://camo.githubusercontent.com/0914058ab95c16ab381b672373e23b8679c2cf8ca7d926eb25e2c4aeac876dd3/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f636f64696e672d667265616b2e676966" alt="Coding Animation"/>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Java+%7C+Spring+Boot+Developer;React.js+%7C+Tailwind+CSS;Microservices+%7C+REST+APIs;MySQL+%7C+PostgreSQL+%7C+MongoDB;Building+Scalable+Applications"
+  alt="Typing Animation"
+/>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=797rjpatel&label=Profile+Views&color=00C2FF&style=for-the-badge" alt="Profile Views"/>
+<img
+  src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"
+  alt="Developer Coding Animation"
+  width="350"
+/>
+
+<br/><br/>
+
+<img
+  src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=00C2FF&style=for-the-badge"
+  alt="Profile Views"
+/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+<h2>🚀 About Me</h2>
 
-Hi! I'm **Rushi Patel**, a passionate Software Developer with an interest in designing, developing, and maintaining modern software applications.
+Hi, I'm **Rushi Patel**, a passionate **Full Stack Web Developer and Software Engineer** who enjoys building modern, efficient, and scalable software applications.
 
-I enjoy solving real-world problems, building scalable applications, and continuously improving my technical skills.
+I work with frontend technologies, backend development, REST APIs, microservices, and relational and NoSQL databases.
 
-- 💻 **Role:** Full Stack Web Developer & Software Engineer
-- ☕ **Backend:** Java, Spring Framework, C#
-- 🎨 **Frontend:** HTML5, CSS3, JavaScript, jQuery
-- 🗄️ **Databases:** MySQL, MongoDB
-- ⚙️ **Other Technologies:** C++, Groovy
-- 🛠️ **Development Tools:** IntelliJ IDEA, Visual Studio Code
-- 🤝 **Open to:** Collaboration and Freelance Opportunities
-- 🌱 **Passion:** Learning, Building & Innovating
-
----
-
-## 🛠️ My Tech Stack
-
-### 👨‍💻 Programming Languages
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=java,cpp,cs,js,groovy&theme=dark" alt="Programming Languages"/>
-
-</div>
-
-### 🌐 Frontend Development
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,jquery&theme=dark" alt="Frontend Skills"/>
-
-</div>
-
-### ⚙️ Backend Development
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=spring,java,cs&theme=dark" alt="Backend Skills"/>
-
-</div>
-
-### 🗄️ Database Technologies
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Database Skills"/>
-
-</div>
-
-### 🔧 Development Tools
-
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=idea,vscode,git,github&theme=dark" alt="Development Tools"/>
-
-</div>
+- 💻 Full Stack Web Developer
+- ☕ Java & Spring Boot Development
+- ⚛️ React.js & Tailwind CSS
+- 🔗 REST API & Microservices Development
+- 🗄️ MySQL, PostgreSQL & MongoDB
+- 🛠️ Building real-world software solutions
+- 🌱 Continuously learning new technologies
+- 🤝 Open to collaboration and freelance opportunities
 
 ---
 
-## 💡 What I Do
+<h2>🛠️ Technologies & Tools</h2>
+
+<h3>👨‍💻 Programming Languages</h3>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,java,js,groovy&theme=dark" alt="Programming Languages" />
+
+<h3>🎨 Frontend Development</h3>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,jquery&theme=dark" alt="Frontend Technologies" />
+
+<h3>⚙️ Backend Development</h3>
+
+<img src="https://skillicons.dev/icons?i=java,spring,cs&theme=dark" alt="Backend Technologies" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Microservices-Architecture-2563EB?style=for-the-badge&logo=springboot&logoColor=white" alt="Microservices" />
+
+<img src="https://img.shields.io/badge/REST-APIs-009688?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" />
+
+<h3>🗄️ Databases</h3>
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Databases" />
+
+<h3>🔧 Development Tools</h3>
+
+<img src="https://skillicons.dev/icons?i=idea,vscode,eclipse,git,github,postman&theme=dark" alt="Development Tools" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/Spring_Tool_Suite-STS-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Tool Suite" />
+
+---
+
+<h2>💼 What I Do</h2>
 
 <table>
 <tr>
 <td width="50%">
 
-### 🌐 Web Development
-Building modern and responsive web applications using frontend and backend technologies.
+<h3>🌐 Full Stack Development</h3>
+
+Building responsive web applications using React.js, Tailwind CSS, JavaScript, and modern backend technologies.
 
 </td>
 <td width="50%">
 
-### ⚙️ Backend Development
-Developing APIs, server-side logic, and database-connected applications.
+<h3>☕ Java & Spring Boot</h3>
+
+Developing secure, scalable backend applications, RESTful APIs, and microservices.
 
 </td>
 </tr>
+
 <tr>
 <td width="50%">
 
-### 🗃️ Database Management
-Working with relational and NoSQL databases for application data.
+<h3>🗃️ Database Development</h3>
+
+Working with MySQL, PostgreSQL, and MongoDB for application data management.
 
 </td>
 <td width="50%">
 
-### 🚀 Software Development
-Creating practical software solutions and improving application functionality.
+<h3>🚀 Software Engineering</h3>
+
+Designing practical solutions, integrating APIs, and improving application performance.
 
 </td>
 </tr>
@@ -115,29 +120,70 @@ Creating practical software solutions and improving application functionality.
 
 ---
 
-## 🎯 Developer Mindset
+<h2>📊 GitHub Statistics</h2>
 
 <div align="center">
 
-> "First, solve the problem. Then, write the code."
+<img
+  src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"
+  height="170"
+  alt="GitHub Statistics"
+/>
 
-**💡 Think • 💻 Code • 🛠️ Build • 🚀 Improve**
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"
+  height="170"
+  alt="Most Used Languages"
+/>
+
+<br/><br/>
+
+<img
+  src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
 
 </div>
 
 ---
 
-## 🤝 Connect With Me
+<h2>🎯 My Development Philosophy</h2>
+
+<div align="center">
+
+<h3>💡 Think. 💻 Code. 🛠️ Build. 🚀 Improve.</h3>
+
+<i>"Great software is built through continuous learning, creative thinking, and consistent effort."</i>
+
+</div>
+
+---
+
+<h2>🤝 Connect With Me</h2>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/797rjpatel/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img
+    src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="mailto:797rjpatel@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Gmail-797rjpatel%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
 </a>
 
 <br/><br/>
 
-**Let's connect, collaborate, and create something amazing!**
+<b>📧 Email:</b> 797rjpatel@gmail.com
+
+<br/><br/>
+
+<b>Let's connect, collaborate, and build something amazing!</b>
 
 </div>
 
@@ -145,10 +191,16 @@ Creating practical software solutions and improving application functionality.
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+<h3>⭐ Thanks for visiting my profile!</h3>
 
-**Made with ❤️ by Rushi Patel**
+<b>Made with ❤️ by Rushi Patel</b>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%" alt="Footer"/>
+<br/><br/>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0077B5&height=110&section=footer"
+  width="100%"
+  alt="Footer"
+/>
 
 </div>
