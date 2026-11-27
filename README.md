@@ -1,67 +1,154 @@
+
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/0914058ab95c16ab381b672373e23b8679c2cf8ca7d926eb25e2c4aeac876dd3/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f636f64696e672d667265616b2e676966"  />
+
+# 👋 Hey, I'm Rushi Patel!
+
+### 💻 Full Stack Developer | Software Engineer | Freelancer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Passionate+Software+Developer;Full+Stack+Web+Development;Java+%7C+Spring+Boot+%7C+MySQL;Building+Solutions+with+Code" alt="Typing SVG" />
+
+<br/>
+
+<img height="220" src="https://camo.githubusercontent.com/0914058ab95c16ab381b672373e23b8679c2cf8ca7d926eb25e2c4aeac876dd3/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f636f64696e672d667265616b2e676966" alt="Coding Animation"/>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=797rjpatel&label=Profile+Views&color=00C2FF&style=for-the-badge" alt="Profile Views"/>
+
 </div>
 
-###
+---
 
-<h1 align="left">Hey 👋 What's up?</h1>
+## 🚀 About Me
 
-###
+Hi! I'm **Rushi Patel**, a passionate Software Developer with an interest in designing, developing, and maintaining modern software applications.
 
-<p align="left">My name is Rushi Patel and I am a Software Developer </p>
+I enjoy solving real-world problems, building scalable applications, and continuously improving my technical skills.
 
-###
+- 💻 **Role:** Full Stack Web Developer & Software Engineer
+- ☕ **Backend:** Java, Spring Framework, C#
+- 🎨 **Frontend:** HTML5, CSS3, JavaScript, jQuery
+- 🗄️ **Databases:** MySQL, MongoDB
+- ⚙️ **Other Technologies:** C++, Groovy
+- 🛠️ **Development Tools:** IntelliJ IDEA, Visual Studio Code
+- 🤝 **Open to:** Collaboration and Freelance Opportunities
+- 🌱 **Passion:** Learning, Building & Innovating
 
-<h2 align="left">About me</h2>
+---
 
-###
+## 🛠️ My Tech Stack
 
-<p align="left">Full Stack Web Developer | Software Developer Engineer | Freelancer</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
+### 👨‍💻 Programming Languages
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg" height="40" alt="groovy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+
+<img src="https://skillicons.dev/icons?i=java,cpp,cs,js,groovy&theme=dark" alt="Programming Languages"/>
+
 </div>
 
-###
-
-<h2 align="left">Connect with me</h2>
-
-###
+### 🌐 Frontend Development
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/797rjpatel/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery&theme=dark" alt="Frontend Skills"/>
+
 </div>
 
-###
+### ⚙️ Backend Development
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=spring,java,cs&theme=dark" alt="Backend Skills"/>
+
+</div>
+
+### 🗄️ Database Technologies
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Database Skills"/>
+
+</div>
+
+### 🔧 Development Tools
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=idea,vscode,git,github&theme=dark" alt="Development Tools"/>
+
+</div>
+
+---
+
+## 💡 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Web Development
+Building modern and responsive web applications using frontend and backend technologies.
+
+</td>
+<td width="50%">
+
+### ⚙️ Backend Development
+Developing APIs, server-side logic, and database-connected applications.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🗃️ Database Management
+Working with relational and NoSQL databases for application data.
+
+</td>
+<td width="50%">
+
+### 🚀 Software Development
+Creating practical software solutions and improving application functionality.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Developer Mindset
+
+<div align="center">
+
+> "First, solve the problem. Then, write the code."
+
+**💡 Think • 💻 Code • 🛠️ Build • 🚀 Improve**
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/797rjpatel/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+**Let's connect, collaborate, and create something amazing!**
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Made with ❤️ by Rushi Patel**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%" alt="Footer"/>
+
+</div>
