@@ -131,8 +131,11 @@ Designing practical software solutions, integrating APIs, solving complex proble
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:797rjpatel@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-797rjpatel%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=797rjpatel%40gmail.com" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://img.shields.io/badge/Gmail-797rjpatel%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Send Email"
+  />
 </a>
 
 <br/><br/>
